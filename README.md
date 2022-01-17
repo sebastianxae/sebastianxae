@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <img width=25%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
 <h2>Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
