@@ -6,5 +6,8 @@
 </div>
   
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img src="https://github-readme-stats.vercel.app/api?username=sebastianxae&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </div>
+<div align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianxae&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</div>  
